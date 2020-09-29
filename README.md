@@ -10,7 +10,7 @@
 You are speaking a different language? That's great because we need you to help us translating our work into other languages.
 
 #### Instructions
-- check for untranslated phrases in [these files][translations]
+- check for untranslated phrases in [these files](translations)
 - replace the english phrases with the according translations
   - make sure to keep the same format
   - highlight the same words with ``** **``
