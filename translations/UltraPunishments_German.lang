@@ -63,4 +63,3 @@
 #templateView.type.action: "Klicke um den Typ zu ändern"
 #warningsListView.item.action: "Klicke zum **entfernen**"
 #warningsListView.item.actionNoPermission: "Du hast keine Berechtigungen, um diese Verwarnung zu entfernen"
-"
