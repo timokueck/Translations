@@ -7,7 +7,7 @@
 #confirmationView.confirm.title: "Confirmer"
 #confirmationView.deny.action: "Cliquez pour annuler"
 #confirmationView.deny.title: "Abandonner"
-#customisationPane.prefix.attribute: "Prefix: **%prefix%**"
+#customisationPane.prefix.attribute: "Préfixe: **%prefix%**"
 #customisationPane.prefix.change.subtitle: "Saisissez un préfixe"
 #customisationPane.prefix.change.title: "Préfixe"
 #customisationPane.prefix.changeAction: "**Clic gauche** pour **changer** le préfixe"
