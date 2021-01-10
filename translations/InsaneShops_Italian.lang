@@ -28,7 +28,7 @@ sellToShopView.confirm.completeMessage: "Hai venduto con successo **%amount%x** 
 sellToShopView.confirm.completeMessage.shopOwner: "Acquistato con successo **%amount%x** **%item%** dal tuo shop da un giocatore per **%money%**"
 shopCreation.messages.invalidItem: "Non puoi vendere questo item"
 shopCreation.messages.noPermission: "Non hai il permesso di creare uno shop"
-shopCreation.messages.reachedLimit: "Non hai il permesso di reare più di **%limit%** Shop"
+shopCreation.messages.reachedLimit: "Non hai il permesso di creare più di **%limit%** Shop"
 shopCreationView.blank.explanation: "Questa opzione non è disponibile"
 shopCreationView.continue.explanation: "Clicca per confermare"
 shopCreationView.continue.title: "Continua"
