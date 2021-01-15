@@ -38,6 +38,7 @@
 #shopCreationView.reduce.title: "Decrease"
 #shopCreationView.title: "Create a new Shop"
 #shopCreationView.titleWithAmount: "Sell %amount%x this Item"
+#shopCreation.messages.chest.not.empty: "This Chest can't be made into a Shop as it contains some Items"
 #shopListView.entry.adminSettingsAction: "**Press Q** to view **Settings**"
 #shopListView.entry.ownShopIndicator: "You are selling this item"
 #shopListView.entry.purchaseAction: "**Left Click** to **purchase**"
