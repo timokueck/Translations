@@ -135,3 +135,6 @@
 #warnBroadcast.server.Reason: "**%player%** was warned on **%server%** by **%issuer%**, Reason: **%reason%**"
 #warningsListView.item.action: "Click to **remove**"
 #warningsListView.item.actionNoPermission: "You dont have permissions to remove this warning"
+#muteChatMessage.local.temporary: "The chat has been muted"
+#unmuteChatMessage.local.temporary: "The chat has been unmuted"
+#muteChatMessageCommand.local.temporary: "The chat is muted"
