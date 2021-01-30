@@ -24,6 +24,8 @@ banMessage.server.temporaryReason: "Ban hráči **%player%** na **%server%** na 
 createReport.addEvidence.action: "Klikni k přidání **důkau** a **pokračování**"
 createReport.addEvidence.desc: "Přidat **zprávy v chatu**, **historii zabití** a ostatních akcí k nahlášení"
 createReport.addEvidence.title: "Přidat důkaz"
+#createReport.addEvidenceContext.title: "Add Evidence with Context"
+#createReport.addEvidenceContext.action: "Click to add **evidence** with **context** and **continue**"
 createReport.addMessage.action: "Klikni k přidání **zprávy** a **pokračování**"
 createReport.addMessage.desc: "Přidej detailní zprávu k nahlášení"
 createReport.addMessage.title: "Přidat zprávu"

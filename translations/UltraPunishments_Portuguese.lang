@@ -24,6 +24,8 @@ banMessage.server.temporaryReason: "Baniste **%player%** em **%server%** por **%
 createReport.addEvidence.action: "Clique para adicionar uma **evidencia** e **continuar**"
 createReport.addEvidence.desc: "Adicionar **Mensagens do chat**, **Histórico de kills** e outras ações no report"
 createReport.addEvidence.title: "Adicionar mensagen"
+#createReport.addEvidenceContext.title: "Add Evidence with Context"
+#createReport.addEvidenceContext.action: "Click to add **evidence** with **context** and **continue**"
 createReport.addMessage.action: "Clique para adicionar uma **mensagem** e **continuar**"
 createReport.addMessage.desc: "Adicione uma mensagem detalhada ao report"
 createReport.addMessage.title: "Adicionar mensagem"
