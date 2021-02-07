@@ -10,7 +10,7 @@
 #command.noValidGroup: "Could not find the group **%group%**"
 #command.noValidUser: "Could not find the user **%user%**"
 #command.playerAddGroup: "Added Group **%group%** to **%player%**"
-#command.playerAddGroupTimed: "Added Group **%group%** to **%player%** for **%time**"
+#command.playerAddGroupTimed: "Added Group **%group%** to **%player%** for **%time%**"
 #command.playerAddPermission: "Added permission **%permission%** to **%player%**"
 #command.playerAddSuperAdmin: "Successfully added **%player%** as a superadmin"
 #command.playerAlreadyHasPermission: "The player **%player%** already has the permission **%permission%**"

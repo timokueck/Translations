@@ -10,7 +10,7 @@ command.groupAlreadyHasPermission: "O grupo **%group%** já tem a permissão **%
 #command.noValidGroup: "Could not find the group **%group%**"
 #command.noValidUser: "Could not find the user **%user%**"
 command.playerAddGroup: "Adicionado o Grupo **%group%** para **%player%**"
-command.playerAddGroupTimed: "Adicionado o Grupo **%group%** para **%player%** por **%time**"
+command.playerAddGroupTimed: "Adicionado o Grupo **%group%** para **%player%** por **%time%**"
 command.playerAddPermission: "Adicionada a permissão **%permission%** para **%player%**"
 command.playerAddSuperAdmin: "**%player%** Adicionado com sucesso como um superadmin"
 command.playerAlreadyHasPermission: "O jogador **%player%** já tem a permissão **%permission%**"

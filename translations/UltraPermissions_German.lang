@@ -10,7 +10,7 @@ command.groupAlreadyHasPermission: "Die Gruppe **%group%** hat bereits die Berec
 #command.noValidGroup: "Could not find the group **%group%**"
 #command.noValidUser: "Could not find the user **%user%**"
 command.playerAddGroup: "Erfolgreich Gruppe **%group%** zu **%player%** hinzugefügt"
-command.playerAddGroupTimed: "Erfolgreich Gruppe **%group%** zu **%player%** für **%time** hinzugefügt"
+command.playerAddGroupTimed: "Erfolgreich Gruppe **%group%** zu **%player%** für **%time%** hinzugefügt"
 command.playerAddPermission: "Erfolgreich Berechtigung **%permission%** zu **%player%** hinzugefügt"
 command.playerAddSuperAdmin: "Erfolgreich den Spieler **%player%** zum Superadmin ernannt"
 command.playerAlreadyHasPermission: "Der Spieler **%player%** hat bereits die Berechtigung **%permission%**"

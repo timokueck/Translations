@@ -10,7 +10,7 @@ command.groupAlreadyHasPermission: "Skupina **%group%** již má oprávnění **
 #command.noValidGroup: "Could not find the group **%group%**"
 #command.noValidUser: "Could not find the user **%user%**"
 command.playerAddGroup: "Přidána skupina **%group%** hráči **%player%**"
-command.playerAddGroupTimed: "Přidána skupina **%group%** hráči **%player%** na **%time**"
+command.playerAddGroupTimed: "Přidána skupina **%group%** hráči **%player%** na **%time%**"
 command.playerAddPermission: "Přidáno oprávnění **%permission%** hráči **%player%**"
 command.playerAddSuperAdmin: "Úspěšně přidán **%player%** do seznamu superadminů"
 command.playerAlreadyHasPermission: "Hráč **%player%** již má oprávnění **%permission%**"
