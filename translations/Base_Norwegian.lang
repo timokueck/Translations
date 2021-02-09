@@ -1,11 +1,3 @@
-#
-# Official Language File
-# To make your own language file, copy this file and edit the copy
-#
-# Changes made to this file will be reset!
-# Do not edit it!
-#
-
 backButton.action: "Trykk for å gå tilbake"
 backButton.title: "Tilbake"
 command.noConsole: "Du kan ikke bruke denne kommandoen gjennom konsollen"
