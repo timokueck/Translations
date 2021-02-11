@@ -15,7 +15,7 @@ customisationPane.prefix.disableAction: "**Trykk på Q** for å **skru av** the 
 customisationPane.prefix.enableAction: "Trykk for å **skru på** prefiksen"
 customisationPane.prefix.resetAction: "**Venstre klikk** for å **resette** prefiksen"
 customisationPane.prefix.title: "Prefiks"
-customisationPane.title: "tilpasning"
+customisationPane.title: "tilpasninger"
 day: "dag"
 days: "dager"
 disable: "skru av"
