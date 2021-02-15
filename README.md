@@ -1,29 +1,24 @@
 # **Translations for Tech's Plugins**
 
-> A repository holding translations for [Tech's Spigot Plugins].
+> An archive holding old translations for [Tech's Spigot Plugins] to support legacy version.
 
 - [Discord][Discord]
 - [Spigot][Tech's Spigot Plugins]
 
 ---
 
-## **Contribute translations**
+This repository is abandoned and no longer maintained.<br>
+We just keep it so legacy versions of the plugins are still working.
 
-You are speaking a different language? That's great because we need you to help us translating our work into other languages.
+To help us with translations or permissions, head over to the new repositories.
 
-#### Instructions
-- check for untranslated phrases in [these files](translations)
-- replace the english phrases with the according translations
-  - make sure to keep the same format
-  - highlight the same words with ``** **``
-  - don't use color codes
-- uncomment all phrases you translated by removing the `#` in each line
-- create a [pull request]
+Click [here][permissions] for permissions.<br>
+Click [here][translations] for translations.
 
 ---
 
 <!-- Links -->
 [Tech's Spigot Plugins]: https://www.spigotmc.org/resources/authors/techscode.29620/
 [Discord]: https://discord.gg/3JuHDm8
-[translations]: https://github.com/TechsCode/Translations/tree/master/translations
-[pull request]: https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests
+[translations]: https://github.com/TechsCode-Team/PluginTranslations
+[permissions]: https://github.com/TechsCode-Team/PluginPermissions
